@@ -118,5 +118,5 @@ elif str.session_state.etapa == 4:
     str.write("")
     str.write("")
     str.markdown('<p style="font-size: 22px; color: #ffb3c6; text-align: center; font-style: italic; font-weight: 500;">nem acredito que minha namorada aceitou, eba! ✨🥂</p>', unsafe_allow_html=True)
-    str.markdown('<p style="font-size: 14px; color: #888888; text-align: center; margin-top: 20px;">(meio que tô morrendo de saudadede de você)</p>', unsafe_allow_html=True)
+    str.markdown('<p style="font-size: 14px; color: #888888; text-align: center; margin-top: 20px;">(meio que tô morrendo de saudade de você)</p>', unsafe_allow_html=True)
 
